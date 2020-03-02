@@ -1,0 +1,9 @@
+const Roles = {
+  GLOBAL_MANAGER: 'GLOBAL_MANAGER',
+  GROUP_MANAGER: 'GROUP_MANAGER',
+  REGULAR: "REGULAR",
+  MANAGER: "MANAGER",
+  ALL: "ALL"
+}
+
+module.exports = Roles;
